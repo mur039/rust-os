@@ -1,0 +1,4 @@
+{
+    "rust.target": "x86_64_none_json",
+    "rust.all_targets": false
+}
